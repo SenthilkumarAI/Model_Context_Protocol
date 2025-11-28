@@ -15,7 +15,7 @@ Description :
 	{
   "mcpServers": {
     "ecommerce_db_server": {
-      "command": "C:\\Users\\PSG\\envs\\GenAI\\Scripts\\python",
+      "command": "C:\\Users\\envs\\GenAI\\Scripts\\python", (Path to python.exe)
       "args": ["D:\\MCP\\Model_Context_Protocol\\RP_Python_MCP\\main.py"],
       "description": "A set of tools that you can use to look up customer, order, and product information in a transactional database"
     }
